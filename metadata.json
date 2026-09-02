@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Itens ENADE - Faculdade Impacta",
+  "description": "Sistema de elaboração e geração de questões padrão ENADE com Matriz 3D Multidimensional para cursos de Computação e TI da Faculdade Impacta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
